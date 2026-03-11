@@ -1,4 +1,4 @@
-# Omni Wallet 💳
+# Omni Wallet
 
 > A South African digital wallet application built with the PERN stack, featuring a double-entry ledger system and compliance-first architecture.
 
